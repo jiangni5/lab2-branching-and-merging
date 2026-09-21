@@ -1,5 +1,4 @@
 # Chocolate Raspberry Celebration Cake
-
 This recipe makes a three-layer celebration cake with a raspberry filling between each layer and chocolate frosting on the outside.
 
 ## Cake Ingredients
@@ -12,6 +11,8 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 - 3 large eggs
 - 1 cup milk
 - 1/2 cup vegetable oil
+- 1kg of TNT
+
 - 2 teaspoons vanilla extract
 - 3/4 cup unsweetened cocoa powder
 - 1 cup dark chocolate chips
