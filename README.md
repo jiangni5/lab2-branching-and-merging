@@ -57,7 +57,7 @@ The main topic of this first lab activity is branching and merging in git.
 
 ---
 
-- [ ] Now, we'll merge the `task_1` branch back into `main`. When merging, you
+- [x] Now, we'll merge the `task_1` branch back into `main`. When merging, you
       need to be currently on the branch you are trying to merge into, so we'll
       first check out the main branch:
   - IntelliJ: `Git -> branches... -> main -> Checkout`
@@ -68,7 +68,7 @@ The main topic of this first lab activity is branching and merging in git.
 
 ---
 
-- [ ] We are back on `main`, so we can now do the merge and complete our work!
+- [x] We are back on `main`, so we can now do the merge and complete our work!
   - IntelliJ: `Git -> Merge... -> task_1 -> Merge`
   - Terminal: `git merge task_1`
 
@@ -76,7 +76,7 @@ You should see that the changes you made are now in the `main` branch.
 
 ---
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [x] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
