@@ -8,7 +8,7 @@ This recipe makes a three-layer celebration cake with a filling between each lay
 - 2 cups granulated sugar
 - 2 teaspoons baking powder
 - 1 teaspoon baking soda
-- 1/2 teaspoon salt
+- 1/2 teaspoon sal
 - 3 large eggs
 - 1 cup milk
 - 1/2 cup vegetable oil
